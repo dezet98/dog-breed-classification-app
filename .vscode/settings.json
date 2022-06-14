@@ -1,0 +1,29 @@
+{
+    "files.exclude": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/.idea": true,
+        "**/CVS": true,
+        "**/.DS_Store": true,
+        "**/Thumbs.db": true,
+        "**.dart_tool": true,
+        "build": false,
+        "web": true,
+        "windows": true,
+        "macos": true,
+        "linux": true,
+        "android": false,
+        "ios": true,
+        ".metadata": true,
+        ".packages": true,
+        "pubspec.lock": false,
+        ".flutter-plugins": true,
+        ".flutter-plugins-dependencies": true,
+    },
+    "editor.formatOnSave": true,
+    "editor.codeActionsOnSave": {
+        "source.fixAll": true,
+        "source.organizeImports": true
+    },
+}
