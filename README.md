@@ -1,16 +1,10 @@
 # breeds_recognition
 
-A new Flutter project.
+Simple app using tflite model to predict dog breed based on pictures.
 
-## Getting Started
+The model implementation is available on https://github.com/dezet98/dog_breed_classification/tree/main
 
-This project is a starting point for a Flutter application.
+Demo:
 
-A few resources to get you started if this is your first Flutter project:
+https://user-images.githubusercontent.com/50755378/173496207-016d5d42-f48b-4a85-9e53-d752c7f8f2ba.mp4
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
